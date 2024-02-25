@@ -64,20 +64,15 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferRomeroN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
-    alt="jennifer-romero" 
+    alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferRomeroN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-    alt="jennifer-romero /></p>
+    alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferRomeroN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-    alt="jennifer-romero /></p>
-
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JenniferRomeroN&theme=vue-dark&hide_border=true" alt="adam-pw" /></p>
 
