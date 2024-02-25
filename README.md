@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://www.pinterest.com.mx/pin/949837377635985502/" alt="jennifer-romero" /></p>
+<p><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="jennifer-romero" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
