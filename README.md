@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jennifer Romero</h1>
 <h3 align="center">Student at Software engineer 🌟.</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=JenniferRomeroN&color=green"
-    alt="jennifer-romero" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="jennifer-romero" /></p>
-
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
